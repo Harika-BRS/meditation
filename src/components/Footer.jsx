@@ -1,6 +1,6 @@
 // src/Footer.js
 import React from 'react';
-import footerImage from '../foot.png';
+import footerImage from '../Screenshot from 2024-06-13 09-19-21.png';
 import './Footer.css';
 
 const Footer = () => {

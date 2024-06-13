@@ -1,6 +1,6 @@
 // src/Header.js
 import React from 'react';
-import headerImage from '../log.png';
+import headerImage from '../Screenshot from 2024-06-13 09-19-46.png';
 import logoImage from '../logo-javascript@2x.png';
 import './Header.css';
 
