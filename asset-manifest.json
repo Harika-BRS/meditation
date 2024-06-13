@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meditation/static/css/main.a05dc89f.css",
+    "main.js": "/meditation/static/js/main.57df1001.js",
+    "static/js/453.e6b7e624.chunk.js": "/meditation/static/js/453.e6b7e624.chunk.js",
+    "static/media/Screenshot from 2024-06-13 09-19-46.png": "/meditation/static/media/Screenshot from 2024-06-13 09-19-46.aa3c8e83b479db724865.png",
+    "static/media/Screenshot from 2024-06-13 09-19-21.png": "/meditation/static/media/Screenshot from 2024-06-13 09-19-21.2b80b2709e39dfccd61f.png",
+    "index.html": "/meditation/index.html",
+    "main.a05dc89f.css.map": "/meditation/static/css/main.a05dc89f.css.map",
+    "main.57df1001.js.map": "/meditation/static/js/main.57df1001.js.map",
+    "453.e6b7e624.chunk.js.map": "/meditation/static/js/453.e6b7e624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a05dc89f.css",
+    "static/js/main.57df1001.js"
+  ]
+}
